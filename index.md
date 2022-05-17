@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Ewerton Duarte</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body background="./img/teaser-tecnologia.jpg"> 
+    
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Sobre mim</a>
+            </li>
+            <li>
+                <a href="Noticias.html">Noticias</a>
+            </li>
+            <li>
+                <a href="contact.html">Contato</a>
+            </li>
+        </ul>
+    </nav>
+    Digite seu e-mail
+    <input type="busca" maxlength="=20">
 
-You can use the [editor on GitHub](https://github.com/EwertonDuarte88/Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <header>
+        <div class="center">
+            <img src="./img/Ewerton.jpg"></img>
+        </div>
+        <h1>Ewerton Duarte</h1>
+        <h2>Desenvolvedor.NET em Formação</h2>
+    </header>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <main>
+        <section>
+            <h2>Sobre mim</h2>
+            
 
-### Markdown
+                Nascido e criado em Osasco-SP de personalidade (INTP), não poderia ter escolhido outra       <br>
+                profissão que não fosse o mundo da tecnologia devido desde os tempos de criança ser um       <br>
+                admirador desse mundo inovador que sempre esta a frente do seu tempo, formado em Analise     <br>
+                e Desenvolvimento de Sistemas em 2022 optei em seguir minha carreira como Desenvolvedor.NET  <br>
+                e estou a cada dia empenhado em buscar conhecimentos no mundo Front-end.                     <br>
+            
+        </section>
+        <section>
+            <h3>Formação Acadêmica</h3>
+            
+                <li> Analise e Desenvolvimento de Sistemas (Anhaguera Educacional) 2020-2022</li>
+        
+            <section>
+                <h3>Cursos</h3>
+                
+                
+                    <li>Html Avançado (Escola Virtual Bradesco)</li>
+                
+                
+                    <li>Inovando com CSS (Escola Virtual Bradesco)</li>
+                
+                
+                    <li>Implementando Banco de Dados (Escola Virtual Bradesco)</li>
+                
+                
+            </section>
+        </section>
+    </main>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <footer> 
 
-```markdown
-Syntax highlighted code block
+        <style>
+            .Estilizar {
+                color: rgb(95, 187, 223);
+                font-size: 40px;
+            }
+        </style>
 
-# Header 1
-## Header 2
-### Header 3
+        <h1 class="Estilizar"> Visão de Futuro</h1>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EwertonDuarte88/Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        <p>Escrever Visão</p>
+        
+    </footer>
+</body>
+</html>
