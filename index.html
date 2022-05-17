@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Ewerton Duarte</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body background="./img/teaser-tecnologia.jpg"> 
+    
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Sobre mim</a>
+            </li>
+            <li>
+                <a href="Noticias.html">Noticias</a>
+            </li>
+            <li>
+                <a href="contact.html">Contato</a>
+            </li>
+        </ul>
+    </nav>
+    Digite seu e-mail
+    <input type="busca" maxlength="=20">
+
+    <header>
+        <div class="center">
+            <img src="./img/Ewerton.jpg"></img>
+        </div>
+        <h1>Ewerton Duarte</h1>
+        <h2>Desenvolvedor.NET em Formação</h2>
+    </header>
+
+    <main>
+        <section>
+            <h2>Sobre mim</h2>
+            
+
+                Nascido e criado em Osasco-SP de personalidade (INTP), não poderia ter escolhido outra       <br>
+                profissão que não fosse o mundo da tecnologia devido desde os tempos de criança ser um       <br>
+                admirador desse mundo inovador que sempre esta a frente do seu tempo, formado em Analise     <br>
+                e Desenvolvimento de Sistemas em 2022 optei em seguir minha carreira como Desenvolvedor.NET  <br>
+                e estou a cada dia empenhado em buscar conhecimentos no mundo Front-end.                     <br>
+            
+        </section>
+        <section>
+            <h3>Formação Acadêmica</h3>
+            
+                <li> Analise e Desenvolvimento de Sistemas (Anhaguera Educacional) 2020-2022</li>
+        
+            <section>
+                <h3>Cursos</h3>
+                
+                
+                    <li>Html Avançado (Escola Virtual Bradesco)</li>
+                
+                
+                    <li>Inovando com CSS (Escola Virtual Bradesco)</li>
+                
+                
+                    <li>Implementando Banco de Dados (Escola Virtual Bradesco)</li>
+                
+                
+            </section>
+        </section>
+    </main>
+
+    <footer> 
+
+        <style>
+            .Estilizar {
+                color: rgb(95, 187, 223);
+                font-size: 40px;
+            }
+        </style>
+
+        <h1 class="Estilizar"> Visão de Futuro</h1>
+
+        <p>Escrever Visão</p>
+        
+    </footer>
+</body>
+</html>
